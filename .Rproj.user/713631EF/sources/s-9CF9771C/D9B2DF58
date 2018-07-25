@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1532446603837.000,
+    "created" : 1532447932662.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "AB2CB8CD",
+    "id" : "D9B2DF58",
     "lastKnownWriteTime" : 1532357480,
     "last_content_update" : 1532357480,
     "path" : "C:/Users/Dempseyn/Data/Code/R/packages/clbes/DESCRIPTION",
     "project_path" : "DESCRIPTION",
     "properties" : {
-        "cursorPosition" : "6,13",
+        "cursorPosition" : "7,26",
         "scrollLine" : "0"
     },
-    "relative_order" : 2,
+    "relative_order" : 1,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "dcf"
