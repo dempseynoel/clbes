@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1135359287",
+    "hash" : "0",
     "id" : "776D12C3",
-    "lastKnownWriteTime" : 1532516189,
-    "last_content_update" : 1532516189119,
+    "lastKnownWriteTime" : 1532516484,
+    "last_content_update" : 1532516484001,
     "path" : "C:/Users/Dempseyn/Data/Code/R/packages/clbes/README.md",
     "project_path" : "README.md",
     "properties" : {
-        "cursorPosition" : "51,0",
-        "scrollLine" : "27"
+        "cursorPosition" : "49,0",
+        "scrollLine" : "26"
     },
     "relative_order" : 3,
     "source_on_save" : false,
