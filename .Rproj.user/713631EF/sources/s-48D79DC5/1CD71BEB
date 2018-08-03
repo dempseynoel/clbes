@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "1CD71BEB",
-    "lastKnownWriteTime" : 1533288194,
-    "last_content_update" : 1533288194306,
+    "lastKnownWriteTime" : 1533289039,
+    "last_content_update" : 1533289039788,
     "path" : "C:/Users/Dempseyn/Data/Code/R/packages/clbes/R/bes.R",
     "project_path" : "R/bes.R",
     "properties" : {
-        "cursorPosition" : "133,10",
-        "scrollLine" : "116",
+        "cursorPosition" : "166,57",
+        "scrollLine" : "134",
         "source_window_id" : ""
     },
     "relative_order" : 1,
