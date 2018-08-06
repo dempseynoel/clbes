@@ -2,5 +2,5 @@
 
 export(turnout_common)
 export(turnout_query)
-import(labelled)
+importFrom(labelled,recode.labelled)
 importFrom(magrittr,"%>%")
